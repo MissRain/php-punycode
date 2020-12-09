@@ -1,5 +1,5 @@
 {
-	"name": "MissRain/punycode",
+	"name": "missrain/punycode",
 	"description": "A Bootstring encoding of Unicode for Internationalized Domain Names in Applications (IDNA)",
 	"keywords": ["IDNA", "punycode"],
 	"homepage": "https://github.com/true/php-punycode",
